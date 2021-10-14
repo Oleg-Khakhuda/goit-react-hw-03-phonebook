@@ -1,0 +1,27 @@
+.form {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: rgb(199, 244, 252);
+  border-radius: 2px;
+  border: 2px solid rgb(61, 61, 61);
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.label {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+  padding-bottom: 15px;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}

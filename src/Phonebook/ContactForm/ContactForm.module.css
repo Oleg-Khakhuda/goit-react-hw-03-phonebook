@@ -1,0 +1,39 @@
+.form {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: rgb(199, 244, 252);
+  border-radius: 2px;
+  border: 2px solid rgb(61, 61, 61);
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.label {
+  display: flex;
+  padding-left: 50px;
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.button {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 10px;
+  background-color: rgb(133, 206, 255);
+}
+.button:hover,
+.button:focus {
+  background-color: rgb(90, 197, 240);
+}
